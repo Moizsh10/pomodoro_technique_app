@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class pomodoro_technique_app {
+public class pomodoro_technique_app
+{
+    public static void main(String[] args)
+    {
+
+    }
 }
